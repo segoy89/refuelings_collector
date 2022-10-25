@@ -1,5 +1,5 @@
 class Constants {
-  static String baseUrl = 'https://refueling.herokuapp.com'; // remote
+  static String baseUrl = 'https://refueling.fly.dev'; // remote
   // static String baseUrl = 'http://localhost:5000'; // iOS local
   // static String baseUrl = 'http://10.0.2.2:5000'; // Android local
 
